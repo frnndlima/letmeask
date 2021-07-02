@@ -4,7 +4,7 @@ Consiste em uma aplicação de salas de Q&A (perguntas e respostas)
 
 Acesso em:  https://letmeask-1ea3c.web.app/
 
-Código de uma [sala já existente](https://letmeask-1ea3c.web.app/rooms/-MdN9oIqchj45V2Vc25F "sala já existente"): -MdN9oIqchj45V2Vc25F
+Código de uma [sala já existente](https://letmeask-1ea3c.web.app/rooms/-MdN9oIqchj45V2Vc25F "sala já existente") -MdN9oIqchj45V2Vc25F
 
 ------------
 
