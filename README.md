@@ -3,6 +3,7 @@ Projeto desenvolvido durante o NLW/Together: Missão ReactJS, disponibilizado pe
 Consiste em uma aplicação de salas de Q&A (perguntas e respostas)
 
 Acesso em:  https://letmeask-1ea3c.web.app/
+Código de uma [sala já existente](https://letmeask-1ea3c.web.app/rooms/-MdN9oIqchj45V2Vc25F "sala já existente"): -MdN9oIqchj45V2Vc25F
 
 ------------
 
@@ -43,7 +44,7 @@ Você poderá visualizar o aplicativo pelo seu navegador em  http://localhost:30
 
 ------------
 
-### 📝 License
+###📝 License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/frnndlima/letmeask/blob/main/LICENSE "LICENSE") file for details.
 
 ------------
