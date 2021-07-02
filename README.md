@@ -43,7 +43,7 @@ Você poderá visualizar o aplicativo pelo seu navegador em  http://localhost:30
 
 ------------
 
-###📝 License
+### 📝 License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/frnndlima/letmeask/blob/main/LICENSE "LICENSE") file for details.
 
 ------------
